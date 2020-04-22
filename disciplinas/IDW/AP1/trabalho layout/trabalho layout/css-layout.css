@@ -1,0 +1,110 @@
+.cabecalho{
+  background-color: whitesmoke;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding: 50px;
+  border: solid black;
+}
+
+.headerbox{
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    border: solid 1px;  
+    background-color: white;
+
+
+}
+section{
+    
+    padding: 0px px px 0px;
+    border: solid 1px;
+
+}
+section article{
+    
+    width: 60%;
+    padding: 70px 0px 75px 0px;
+    border: solid 1px;
+    float: top; 
+
+}
+
+
+
+.text{ 
+  font-size: 60px ;
+  font-family: sans-serif;
+
+}
+
+
+
+aside{
+    width:39.75%;
+    padding:  0px 0px 0px 0px;
+    float: right;
+     
+}
+aside p{
+    width: 100%;
+    border: solid 1px;
+    padding: 0px 0px 75px 0px;
+    float: left;
+    font-size: 22px;
+}
+article p {
+ font-size: 21px;
+
+
+}
+footer{
+    clear: both;
+    border: solid 1px;
+    width: 100%;
+    height: 100%;
+    
+    
+
+}
+footer h1{
+    padding: 60px 0px 0px 0px;
+    width: 50%;
+    height: 100%;
+    font-size: 22px;
+
+}
+footer p{
+    width: 50%;
+    
+    padding: 0px 0px 0px 650px;
+    
+    font-size: 22px;
+    
+}
+
+body{
+    background-color: orange;
+}
+
+.img{
+    width: 25%;
+    height: 25%;
+    float: right;
+ 
+}
+
+.roundimg{
+    width: 25%;
+    height: 25%;
+    float: right;
+    border-radius: 50%; 
+
+}
+
+.smallimg{
+  width: 20px;
+}
+
+
