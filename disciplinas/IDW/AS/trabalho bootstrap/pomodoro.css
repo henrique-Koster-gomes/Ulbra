@@ -1,0 +1,90 @@
+
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 100%;
+}
+
+
+body{
+ background-color: tomato ;
+ 
+}
+
+main{
+margin: 3%;
+
+
+
+
+
+}
+
+hr{
+background-color: black;
+
+}
+
+
+.easteregg{
+color: gainsboro;
+
+}
+
+img{
+
+background-repeat: no-repeat;
+object-fit: contain;
+width: 230px; 
+height: 230px; 
+
+
+
+}
+
+
+.banner{
+
+    background-repeat: no-repeat;
+    object-fit: contain;
+    width: 100%; 
+    height: 100%; 
+    
+    
+    
+}
+.hidden{
+background-color: transparent;
+color: transparent;
+
+}
+
+article div{
+background-color: gainsboro;
+
+
+
+}
+
+
+footer div div{
+background-color: gainsboro;
+
+
+}
+hr{
+
+    background-color: gray;
+}
+
+section{
+background-color: gainsboro;
+
+}
+
+
+header div{
+    background-color: gainsboro;
+}
+
+
+
